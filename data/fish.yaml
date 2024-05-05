@@ -1,0 +1,8 @@
+#数据集路径
+path: E:\Download\yolov5-5.0\yolov5-5.0\mybigfish
+#验证集路径
+train: E:\Download\yolov5-5.0\yolov5-5.0\mybigfish\train_list.txt
+val: E:\Download\yolov5-5.0\yolov5-5.0\mybigfish\val_list.txt
+nc: 1
+names:
+  0: fish
